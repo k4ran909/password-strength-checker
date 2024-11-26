@@ -20,7 +20,7 @@ A comprehensive password strength checking tool with both GUI and CLI interfaces
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/k4ran909/password-strength-checker.git
 cd password-strength-checker
 ```
 
